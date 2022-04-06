@@ -2,6 +2,9 @@ spring:
   profiles:
     active: dev
     
+ccc: 曹晓
+
+    
     
 --- 
 spring:
@@ -14,7 +17,3 @@ spring:
   profiles: test
   application:
     name: springcloud-config-test
-    
-    
-    
-ccc: 曹晓
