@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev
+    active: test
     
 ccc: 曹晓
 
@@ -19,4 +19,3 @@ spring:
     name: springcloud-config-test
     caoxiao: 111
 caoxiao: 222
----
