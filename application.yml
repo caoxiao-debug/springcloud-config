@@ -19,3 +19,4 @@ spring:
     name: springcloud-config-test
     caoxiao: 111
 caoxiao: 222
+---
