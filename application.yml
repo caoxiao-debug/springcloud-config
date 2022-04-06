@@ -17,3 +17,5 @@ spring:
   profiles: test
   application:
     name: springcloud-config-test
+    caoxiao: 111
+caoxiao: 222
