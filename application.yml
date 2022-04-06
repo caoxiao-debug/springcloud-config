@@ -6,13 +6,14 @@ ccc: 曹晓
 
     
     
---- 
+
 spring:
   profiles: dev
   application:
     name: springcloud-config-dev
-      
----     
+    ccc: caoxiao
+caoxiao: 111
+   
 spring:
   profiles: test
   application:
